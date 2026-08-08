@@ -116,7 +116,7 @@ fun_fact: I turn ESP32 sensors + coffee into working farm dashboards ☕🌾
 <a href="https://github.com/adityagedam65/CropConnect">
   <img src="https://img.shields.io/badge/CropConnect-View_Repo-1a7a3c?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/github/stars/adityagedam65/CropConnect?style=for-the-badge&color=8bc34a"/>
+<img src="https://img.shields.io/badge/stars-0-8bc34a?style=for-the-badge&logo=github"/>
 <br/>
 <sub>Full-stack IoT smart farming platform for Indian smallholder farmers — FastAPI + MySQL backend, React + Tailwind frontend, ESP32 sensors (soil moisture, NPK, pH, temp/humidity), SIM800L for rural 2G connectivity, AI crop advice via Gemini, mandi price integration, and multilingual support.</sub>
 
@@ -125,7 +125,7 @@ fun_fact: I turn ESP32 sensors + coffee into working farm dashboards ☕🌾
 <a href="https://github.com/adityagedam65/AgroSense">
   <img src="https://img.shields.io/badge/AgroSense-View_Repo-1a7a3c?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/github/stars/adityagedam65/AgroSense?style=for-the-badge&color=8bc34a"/>
+<img src="https://img.shields.io/badge/stars-0-8bc34a?style=for-the-badge&logo=github"/>
 <br/>
 <sub>Hackathon build on Climate Monitoring & Water Resource Management — extends CropConnect with water usage analytics, carbon savings tracking, drought risk prediction, and configurable climate alert rules. Dockerized for full-stack orchestration.</sub>
 
