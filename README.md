@@ -95,8 +95,8 @@ fun_fact: I turn ESP32 sensors + coffee into working farm dashboards ☕🌾
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityagedam65&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagedam65&layout=compact&theme=radical"/>
+<img height="180em" src="https://your-fork-name.vercel.app/api?username=adityagedam65&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://your-fork-name.vercel.app/api/top-langs/?username=adityagedam65&layout=compact&theme=radical"/>
 
 <br/>
 
